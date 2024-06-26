@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Nice%20To%20Meet%20You!&fontSize=50&animation=fadeIn&fontAlignY=35&desc=This%20Is%20Sungjun%20Kim!&descAlignY=51&descAlign=63)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Nice%20To%20Meet%20You!&fontSize=50&animation=fadeIn&fontAlignY=35&desc=This%20Is%20Sungjun%20Kim!&descAlignY=51&descAlign=65)
