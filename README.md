@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MATLAB-4c69f9?style=flat-square"/></a>
+<img src="https://img.shields.io/badge/MATLAB-112ebf?style=flat-square"/></a>
 
 <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/></a>
 </div>
