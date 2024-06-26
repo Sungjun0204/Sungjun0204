@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Sungjun0204/Sungjun0204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?
+          type=$Waving&color=auto&
+          height=$200&section=header&
+          text=$Nice to Meet You!&fontSize=$50
+          &animation=$twinkling&fontAlignY=35&desc=Here%20is%20Sungjun%20Kim&descAlignY=51&descAlign=53)
