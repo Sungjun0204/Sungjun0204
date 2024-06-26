@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <div align="center">
     <h1>🔎 For more 🔎</h1>
 
-<a href="mailto:msjun23@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<a href="mailto:kxt1234.max@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 <a href="https://github.com/Sungjun0204/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="https://sungjun0204.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
