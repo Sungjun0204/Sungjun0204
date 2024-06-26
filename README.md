@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?
           type=$Waving&color=auto&
           height=$200&section=header&
-          text=$Nice to Meet You!&fontSize=$50
+          text=$Nice%20to%20Meet%20You!&fontSize=$50
           &animation=$twinkling&fontAlignY=35&desc=Here%20is%20Sungjun%20Kim&descAlignY=51&descAlign=53)
